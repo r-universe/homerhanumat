@@ -1,0 +1,10 @@
+{
+  "id": 57561569,
+  "created_at": "2024-11-24T22:04:44.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["homerhanumat.r-universe.dev"]
+}
