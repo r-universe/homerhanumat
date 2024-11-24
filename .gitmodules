@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/homerhanumat/homerhanumat.r-universe.dev
 	branch = HEAD
-[submodule "tigerstats"]
-	path = tigerstats
-	url = https://github.com/homerhanumat/tigerstats
+[submodule "bcscr"]
+	path = bcscr
+	url = https://github.com/homerhanumat/bcscr
+[submodule "tigerData"]
+	path = tigerData
+	url = https://github.com/homerhanumat/tigerData
+[submodule "tigerTree"]
+	path = tigerTree
+	url = https://github.com/homerhanumat/tigerTree
