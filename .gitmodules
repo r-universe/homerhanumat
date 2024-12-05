@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/homerhanumat/homerhanumat.r-universe.dev
 	branch = HEAD
+[submodule "LSTbook"]
+	path = LSTbook
+	url = https://github.com/dtkaplan/LSTbook
 [submodule "bcscr"]
 	path = bcscr
 	url = https://github.com/homerhanumat/bcscr
