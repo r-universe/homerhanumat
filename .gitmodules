@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "LSTbook"]
 	path = LSTbook
-	url = https://github.com/dtkaplan/LSTbook
+	url = https://github.com/homerhanumat/LSTbook
 [submodule "bcscr"]
 	path = bcscr
 	url = https://github.com/homerhanumat/bcscr
