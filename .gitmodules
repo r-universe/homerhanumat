@@ -14,3 +14,6 @@
 [submodule "tigerTree"]
 	path = tigerTree
 	url = https://github.com/homerhanumat/tigerTree
+[submodule "tigerstats"]
+	path = tigerstats
+	url = https://github.com/homerhanumat/tigerstats
