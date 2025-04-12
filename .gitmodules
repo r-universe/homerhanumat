@@ -5,6 +5,10 @@
 [submodule "LSTbook"]
 	path = LSTbook
 	url = https://github.com/homerhanumat/LSTbook
+[submodule "abdData"]
+	path = abdData
+	url = https://github.com/Middleton-Lab/abdData
+	registered = false
 [submodule "bcscr"]
 	path = bcscr
 	url = https://github.com/homerhanumat/bcscr
