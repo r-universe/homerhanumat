@@ -5,6 +5,9 @@
 [submodule "LSTbook"]
 	path = LSTbook
 	url = https://github.com/homerhanumat/LSTbook
+[submodule "LSTtest"]
+	path = LSTtest
+	url = https://github.com/homerhanumat/LSTtest
 [submodule "abdData"]
 	path = abdData
 	url = https://github.com/Middleton-Lab/abdData
