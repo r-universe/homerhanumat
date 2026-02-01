@@ -8,10 +8,6 @@
 [submodule "LSTtest"]
 	path = LSTtest
 	url = https://github.com/homerhanumat/LSTtest
-[submodule "abdData"]
-	path = abdData
-	url = https://github.com/Middleton-Lab/abdData
-	registered = false
 [submodule "bcscr"]
 	path = bcscr
 	url = https://github.com/homerhanumat/bcscr
